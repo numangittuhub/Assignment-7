@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to log in due to incorrect credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-28T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Gateway Error",
+    "description": "Payment not processing for certain users.",
+    "customer": "Jane Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-28T12:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Slow Page Load Time",
+    "description": "The main product catalog page is taking 10+ seconds to load.",
+    "customer": "Alice Johnson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-10-28T15:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Broken Image Link",
+    "description": "A broken image link is displayed on the 'About Us' page.",
+    "customer": "Bob Williams",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-29T09:15:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Email Notification Failure",
+    "description": "Order confirmation emails are not being sent to customers.",
+    "customer": "Charlie Brown",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-10-29T11:55:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Incorrect Calculated Tax",
+    "description": "Sales tax is being incorrectly calculated for customers in California.",
+    "customer": "David Lee",
+    "priority": "High",
+    "status": "Under Review",
+    "createdAt": "2025-10-29T14:40:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Crashing",
+    "description": "iOS application crashes when accessing the user profile settings.",
+    "customer": "Eve Davis",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-30T08:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Missing Search Filter",
+    "description": "Users need an option to filter products by size on the search results page.",
+    "customer": "Frank Miller",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-30T10:20:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Data Report Mismatch",
+    "description": "The monthly revenue report does not match the data in the accounting database.",
+    "customer": "Grace Wilson",
+    "priority": "High",
+    "status": "Under Review",
+    "createdAt": "2025-10-30T12:35:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Broken Link in Footer",
+    "description": "The 'Privacy Policy' link in the website footer leads to a 404 page.",
+    "customer": "Henry Clark",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-10-30T14:50:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Checkout Button Unresponsive",
+    "description": "Users are unable to proceed from the cart page as the checkout button is unresponsive.",
+    "customer": "Ivy Baker",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-10-30T16:10:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Typo in Heading",
+    "description": "A typo ('Welcom' instead of 'Welcome') is found on the main user dashboard.",
+    "customer": "Jack King",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-10-30T17:45:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Subscription Cancellation Problem",
+    "description": "The subscription cancellation form submits but the status does not update on the user's account.",
+    "customer": "Kelly Adams",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-30T19:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "API Rate Limit Exceeded",
+    "description": "External integration is failing due to consistently hitting the API rate limit.",
+    "customer": "Liam Scott",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-10-31T09:30:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Wrong Currency Display",
+    "description": "The price is displayed in USD for users located in the UK who should see GBP.",
+    "customer": "Mia Hall",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-31T11:05:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Server Outage - Database Connection",
+    "description": "The production server experienced a brief outage due to a failed database connection.",
+    "customer": "System Alert",
+    "priority": "Critical",
+    "status": "Closed",
+    "createdAt": "2025-10-31T13:20:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Accessibility Issue: Keyboard Navigation",
+    "description": "Keyboard-only navigation is broken on the checkout page, failing WCAG compliance.",
+    "customer": "Noah Carter",
+    "priority": "Medium",
+    "status": "Under Review",
+    "createdAt": "2025-10-31T15:15:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Missing User Profile Field",
+    "description": "The user's 'Phone Number' field is missing from the account editing page.",
+    "customer": "Olivia Evans",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-31T17:00:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Search Functionality Returns Irrelevant Results",
+    "description": "Searching for specific product names returns unrelated or no results at all.",
+    "customer": "Peter Green",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-11-01T08:45:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Unwanted Browser Cache Behavior",
+    "description": "The browser is aggressively caching dynamic user data, leading to stale information after refresh.",
+    "customer": "Quinn White",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-11-01T10:30:00Z"
+  },
+  {
+    "id": 21,
+    "title": "Security Vulnerability: XSS",
+    "description": "A cross-site scripting (XSS) vulnerability was found on the comments section input field.",
+    "customer": "Security Researcher",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-11-01T12:15:00Z"
+  },
+  {
+    "id": 22,
+    "title": "Time Zone Display Error",
+    "description": "All time stamps in the user activity log are displayed 5 hours behind the actual time zone.",
+    "customer": "Ryan Thomas",
+    "priority": "Medium",
+    "status": "Under Review",
+    "createdAt": "2025-11-01T14:00:00Z"
+  }
+]
